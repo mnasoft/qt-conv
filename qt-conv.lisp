@@ -79,3 +79,5 @@
     (unwind-protect
 	 (#_exec *qapp*)
       (#_hide window))))
+
+(main  :windows)
