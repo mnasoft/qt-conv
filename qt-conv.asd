@@ -1,9 +1,9 @@
 ;;;; qt-conv.asd
 
-(asdf:defsystem #:qt-conv
+(defsystem #:qt-conv
   :description "Describe qt-conv here"
-  :author "Your Name <your.name@example.com>"
-  :license "Specify license here"
+  :author "Nick Matvyeyev <mnasoft@gmail.com>"
+  :license "GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 or later"  
   :serial t
   :depends-on (#:qt)
   :components ((:file "package")
