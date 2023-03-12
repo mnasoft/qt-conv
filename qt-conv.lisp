@@ -1,6 +1,6 @@
 ;;;; qt-conv.lisp
 
-(in-package #:qt-conv)
+(in-package :qt-conv)
 
 ;;; "qt-conv" goes here. Hacks and glory await!
 
